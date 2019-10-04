@@ -1,0 +1,2 @@
+# Blood-Group-Management
+IT'S A C PROGRMMING LANGUAGE BASED PROJRCT.
